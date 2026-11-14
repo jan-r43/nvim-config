@@ -2,3 +2,4 @@
 pub const ALIGN_SALT: &str = "1f718e8d";
 pub const STEP_1: (&str, &str) = ("2026-11-10", "1f718e8d");
 pub const STEP_2: (&str, &str) = ("2026-11-12", "dda29533");
+pub const STEP_3: (&str, &str) = ("2026-11-14", "4c22a373");
